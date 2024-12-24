@@ -5,7 +5,7 @@
 
 I am an enthusiastic and self-motivated full-stack web developer with excellent knowledge and experience. I am so passionate about learning and implementing new web technologies. I am searching for a position where I can apply and expand my Knowledge and skills. I have already developed more than 15 projects using HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, and ReactJs. I have also knowledge with working experience in full-stack development using Nodejs, Expressjs, MongoDB, and Firebase. I can take on challenges in a new environment to develop new skills. I can take the level of accuracy concerning the quality of the work with attention to detail. I want to build my career on this job because I love this job.
 
-Skills: JAVASCRIPT/TYPESCRIPT/ REACT / NEXTJS/RUDUX/NODE/EXPRESSJS/MONGODB/ / HTML / CSS/BOOTSTRAP/TAILWIND/FIREBASE/GIT/GITHUB
+Skills: JAVASCRIPT/TYPESCRIPT/ REACT / NEXTJS/RUDUX/NODE/EXPRESSJS/MONGODB/MONGOOSE/ HTML / CSS/BOOTSTRAP/TAILWIND/FIREBASE/GIT/GITHUB
 
 - 🔭 I’m currently working on this page. 
 
