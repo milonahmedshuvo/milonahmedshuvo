@@ -45,10 +45,10 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, REST API
 
 ### 📦 Installation
 
-git clone 
-cd school-transcript-generator
-npm install
-npm run dev
+- git clone 
+- cd school-transcript-generator
+- npm install
+- npm run dev
 
 
 
@@ -100,12 +100,12 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, Node.js, Express.js, MongoDB
 ### 📦 Installation
 
 # Frontend
-git clone 
-cd doctors-schedule-platform
-npm install
-npm run dev
+- git clone 
+- cd doctors-schedule-platform
+- npm install
+- npm run dev
 
 # Backend
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
