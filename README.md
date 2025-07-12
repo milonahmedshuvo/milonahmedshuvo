@@ -41,16 +41,6 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, REST API
 - **PDF Rendering Issues**: Initially struggled with layout shifts in PDF rendering. Solved by optimizing `react-pdf` configuration and layout structure.
 - **State Management**: Used Redux with strict typing to handle complex input flows and form states efficiently.
 
----
-
-### 📦 Installation
-
-- git clone 
-- cd school-transcript-generator
-- npm install
-- npm run dev
-
-
 
 ---
 
@@ -94,18 +84,3 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, Node.js, Express.js, MongoDB
 
 - **Cross-device Design Issues**: Fixed layout inconsistencies using Tailwind’s responsive utilities
 - **Scalability**: Built reusable components and API structure to allow easy future integration
-
----
-
-### 📦 Installation
-
-# Frontend
-- git clone 
-- cd doctors-schedule-platform
-- npm install
-- npm run dev
-
-# Backend
-- cd backend
-- npm install
-- npm run dev
