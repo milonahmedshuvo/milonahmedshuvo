@@ -45,7 +45,6 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, REST API
 
 ### 📦 Installation
 
-```bash
 git clone 
 cd school-transcript-generator
 npm install
@@ -57,7 +56,7 @@ npm run dev
 
 ## ✅ 2. Doctors Schedule Platform (Personal Project - Business Purpose)
 
-```markdown
+
 # 🩺 Doctors Schedule Platform
 
 A modern, responsive web platform for displaying and managing doctor profiles built for business use.
@@ -100,7 +99,6 @@ React.js, Next.js, Tailwind CSS, Redux, TypeScript, Node.js, Express.js, MongoDB
 
 ### 📦 Installation
 
-```bash
 # Frontend
 git clone 
 cd doctors-schedule-platform
