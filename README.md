@@ -160,22 +160,12 @@ A centralized content management platform for hospital information, services, do
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Portfolio:** [Add your portfolio URL]
-- **Email:** [Add your professional email]
+- **GitHub:** [github.com/milonahmedshuvo](https://github.com/milonahmedshuvo)
+- **LinkedIn:** [https://www.linkedin.com/in/milon-ahmed-shuvo-developer]
+- **Portfolio:** [https://milonahmed-dev.vercel.app]
+- **Email:** [milonahmedshuvo01@gmail.com]
 
 ---
 
