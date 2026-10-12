@@ -163,9 +163,9 @@ A centralized content management platform for hospital information, services, do
 ## 🤝 Connect With Me
 
 - **GitHub:** [github.com/milonahmedshuvo](https://github.com/milonahmedshuvo)
-- **LinkedIn:** [https://www.linkedin.com/in/milon-ahmed-shuvo-developer]
-- **Portfolio:** [https://milonahmed-dev.vercel.app]
-- **Email:** [milonahmedshuvo01@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/milon-ahmed-shuvo-developer](https://www.linkedin.com/in/milon-ahmed-shuvo-developer)
+- **Portfolio:** [https://milonahmed-dev.vercel.app](https://milonahmed-dev.vercel.app)
+- **Email:** [milonahmedshuvo01@gmail.com](milonahmedshuvo01@gmail.com)
 
 ---
 
